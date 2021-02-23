@@ -29,8 +29,10 @@ function App() {
 
   return (
     <div className='coin_app'>
+      <h5>REYAD © 2021</h5>
       <div className='coin_search'>
         <h1 className='coin_text'>Search a Currency</h1>
+
         <form>
           <input
             type='text'
